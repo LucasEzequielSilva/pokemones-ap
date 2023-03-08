@@ -1,4 +1,4 @@
- const data = [
+const data = [
     {
         "id": 1,
         "name": "Bulbasaur",
@@ -172,4 +172,5 @@
         "img":"https://media.sketchfab.com/models/33b93df803a14217a140aed5268f514c/thumbnails/efca4e195c95410dbaf736ff7c704404/ebf4a17f44c9488ba69b31014d6393a3.jpeg"
     }
 ]
+
 export default data
